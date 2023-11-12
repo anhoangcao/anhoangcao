@@ -10,7 +10,7 @@
 ```python
 class Cao Hoang An:
   def __init__(self):
-    self.name = Cao Hoang An
+    self.class ="DI2095A2"
     self.school = "CAN THO University"
     self.pronouns = "he/him"
     self.hobbies = ["football", "programming", "music", "book"]
