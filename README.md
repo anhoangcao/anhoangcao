@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi, I’m Hoang An!   <img src="https://emoji.gg/assets/emoji/9085-totoro.png" width="64px" height="64px" alt="totoro">
 
-<!--
-**anhoangcao/anhoangcao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Group 1](https://user-images.githubusercontent.com/58461444/206890835-73790b59-6e7c-445b-ae82-ce2c7eaa07d0.png)
 
-Here are some ideas to get you started:
+<a href=https://www.linkedin.com/in/anhoangcao02/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+👨 My name is Hoang An and I'm studying information systems at CAN THO University. I'm from Vietnam and my goal is to become a software engineer.
+
+```python
+class Cao Hoang An:
+  def __init__(self):
+    self.name = Cao Hoang An
+    self.school = "CAN THO University"
+    self.pronouns = "he/him"
+    self.hobbies = ["football", "programming", "music", "book"]
+    self.programming_languages = ["React", "Node", "TypeScript", "JavaScript"]
+```
+
