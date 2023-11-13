@@ -7,13 +7,15 @@
 
 👨 My name is Hoang An and I'm studying information systems at CAN THO University. I'm from Vietnam and my goal is to become a software engineer.
 
-```python
-class Cao Hoang An:
-  def __init__(self):
-    self.class ="DI2095A2"
-    self.school = "CAN THO University"
-    self.pronouns = "he/him"
-    self.hobbies = ["football", "programming", "music", "book"]
-    self.programming_languages = ["React", "Node", "TypeScript", "JavaScript"]
+```javascript
+class CaoHoangAn {
+  constructor() {
+    this.class = "DI2095A2";
+    this.school = "CAN THO University";
+    this.pronouns = "he/him";
+    this.hobbies = ["football", "programming", "music", "book"];
+    this.programmingLanguages = ["React", "Node", "TypeScript", "JavaScript"];
+  }
+}
 ```
 
