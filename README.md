@@ -1,6 +1,6 @@
 # Hi, I’m Hoang An!   <img src="https://emoji.gg/assets/emoji/9085-totoro.png" width="64px" height="64px" alt="totoro">
 
-![Group 1](https://www.canva.com/design/DAF0BhmRumc/watch)
+![Group 1](https://www.canva.com/design/DAF0BhmRumc/view)
 
 <a href=https://www.linkedin.com/in/anhoangcao02/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a>
 
