@@ -5,13 +5,13 @@
 <a href=https://www.linkedin.com/in/anhoangcao02/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a>
 
 
-👨 My name is Hoang An and I'm studying information systems at CAN THO University. I'm from Vietnam and my goal is to become a software engineer.
+👨 My name is Hoang An and I'm studying information systems at CAN THO University. I'm from Ca Mau and my goal is to become a software engineer.
 
 ```javascript
 class CaoHoangAn {
   constructor() {
     this.class = "DI2095A2";
-    this.school = "CAN THO University";
+    this.school = "Can Tho University";
     this.pronouns = "he/him";
     this.hobbies = ["football", "programming", "music", "book"];
     this.programmingLanguages = ["React", "Node", "TypeScript", "JavaScript"];
