@@ -27,10 +27,7 @@ class CaoHoangAn {
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhoangcao&theme=tokyonight&layout=compact&langs_count=6">
 
-## 😫 Leetcode Stats
-![LeetCode Stats](https://leetcode.card.workers.dev/anhoangcao?theme=dark&font=source_code_pro&extension=null)
-
 ## ✨ Project Showcase
-* [ECG Classification]([https://github.com/anhoangcao/transcendCare](https://github.com/anhoangcao/Electrocardiogram-Based-Heart-Disease-Classification-with-Machine-Learning-Techniques)) - Electrocardiogram based heart disease classification with machine learning techniques
+* [ECG Classification](https://github.com/anhoangcao/Electrocardiogram-Based-Heart-Disease-Classification-with-Machine-Learning-Techniques) - Electrocardiogram based heart disease classification with machine learning techniques
 * [Ecommerce shop](https://github.com/anhduy1202/fullyhacks) - Full-stack ecommerce shop with MongoDB, Express, React, Node
 * [Recognition of license plates](https://github.com/anhoangcao/Recognition-of-license-plates-by-KNN) - Recognition of license plates by KNN 
