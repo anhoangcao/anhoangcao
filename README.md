@@ -1,6 +1,6 @@
 # Hi, I’m Hoang An!   <img src="https://emoji.gg/assets/emoji/9085-totoro.png" width="64px" height="64px" alt="totoro">
 
-![Group 1]([Cao Hoang An.png](https://raw.githubusercontent.com/anhoangcao/anhoangcao/c54302b75250ee27766b72a299990268260eece3/Cao%20Hoang%20An.png))
+<img src="Cao Hoang An.png" alt="">
 
 <a href=https://www.linkedin.com/in/anhoangcao02/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a>
 <a href=https://orcid.org/0009-0002-5608-0866> <img src="https://img.shields.io/badge/-ORCID-A6CE39?style=plastic&logo=orcid&logoColor=F5F5F5"> </a>
