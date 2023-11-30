@@ -14,7 +14,7 @@ class CaoHoangAn {
     this.school = "Can Tho University";
     this.pronouns = "he/him";
     this.hobbies = ["football", "programming", "music", "book"];
-    this.programmingLanguages = ["React", "Node", "TypeScript", "JavaScript"];
+    this.programmingLanguages = ["React", "Node", "Python", "JavaScript"];
   }
 }
 ```
