@@ -30,4 +30,6 @@ class CaoHoangAn {
 ## ✨ Project Showcase
 * [ECG Classification](https://github.com/anhoangcao/Electrocardiogram-Based-Heart-Disease-Classification-with-Machine-Learning-Techniques) - Electrocardiogram based heart disease classification with machine learning techniques
 * [Ecommerce shop](https://github.com/anhduy1202/fullyhacks) - Full-stack ecommerce shop with MongoDB, Express, React, Node
-* [Recognition of license plates](https://github.com/anhoangcao/Recognition-of-license-plates-by-KNN) - Recognition of license plates by KNN 
+* [Recognition of license plates](https://github.com/anhoangcao/Recognition-of-license-plates-by-KNN) - Recognition of license plates by KNN and OpenCV
+* [Movie ticketing management system](https://github.com/anhoangcao/Movie-ticketing-management-system) - A simple movie ticketing and management application using C# and SQL Server
+* [My portfolio](https://github.com/anhoangcao/Movie-ticketing-management-system) - My portfolio website using JavaScript/HTML/CSS
