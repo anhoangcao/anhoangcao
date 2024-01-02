@@ -13,7 +13,7 @@ class CaoHoangAn {
     this.class = "DI2095A2";
     this.school = "Can Tho University";
     this.pronouns = "he/him";
-    this.hobbies = ["football", "programming", "music", "book"];
+    this.hobbies = ["football", "programming", "travel", "music", "book"];
     this.programmingLanguages = ["React", "Node", "Java", "Python", "JavaScript"];
   }
 }
