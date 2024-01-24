@@ -28,8 +28,10 @@ class CaoHoangAn {
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhoangcao&theme=tokyonight&layout=compact&langs_count=6">
 
 ## ✨ Project Showcase
+* [Tiktok clone](https://github.com/anhoangcao/Tiktok-clone) - Full-stack Tiktok chone with Next, React, TypeScript, TailwindCSS and AppWrite
+* [ChatGPT clone](https://github.com/anhoangcao/MEVN-Stack-ChatGPT) - MEVN-Stack ChatGPT chone with MongoDB, Expreess, Vue, Node and OpenAI
 * [ECG Classification](https://github.com/anhoangcao/Electrocardiogram-Based-Heart-Disease-Classification-with-Machine-Learning-Techniques) - Electrocardiogram based heart disease classification with machine learning techniques
-* [Ecommerce shop](https://github.com/anhoangcao/MERN-stack-ecommerce-shop) - Full-stack ecommerce shop with MongoDB, Express, React, Node
+* [Ecommerce shop](https://github.com/anhoangcao/MERN-stack-ecommerce-shop) - Full-stack ecommerce shop with MongoDB, Express, React, Node, TailwindCSS and Socket.IO
 * [Recognition of license plates](https://github.com/anhoangcao/Recognition-of-license-plates-by-KNN) - Recognition of license plates by KNN and OpenCV
-* [Movie ticketing management system](https://github.com/anhoangcao/Movie-ticketing-management-system) - A simple movie ticketing and management application using C# and SQL Server
+* [Movie ticketing management system](https://github.com/anhoangcao/Movie-ticketing-management-system) - A simple movie ticketing and management application using C# and MS SQL
 * [My portfolio](https://github.com/anhoangcao/MyPortfolio) - My portfolio website using JavaScript/HTML/CSS and SASS.
