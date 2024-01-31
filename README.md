@@ -1,4 +1,4 @@
-# Hi, I’m Hoang An!   <img src="https://emoji.gg/assets/emoji/9085-totoro.png" width="64px" height="64px" alt="totoro">
+# Hi, I’m Hoang An!   <img src="https://i.imgur.com/6cwG9Wo.jpg" width="64px" height="64px" alt="totoro">
 
 <img src="background.png" alt="">
 
