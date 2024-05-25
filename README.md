@@ -1,6 +1,6 @@
 # Hi, I’m Hoang An!   <img src="https://i.imgur.com/Hmh4jme.jpeg" width="64px" height="64px" alt="totoro">
 
-<img src="Cao Hoang An2.pdf" alt="">
+<img src="Cao Hoang An3.png" alt="">
 
 <a href=https://www.linkedin.com/in/anhoangcao02/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a>
 <a href=https://orcid.org/0009-0002-5608-0866> <img src="https://img.shields.io/badge/-ORCID-A6CE39?style=plastic&logo=orcid&logoColor=F5F5F5"> </a>
