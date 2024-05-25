@@ -28,6 +28,8 @@ class CaoHoangAn {
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhoangcao&theme=tokyonight&layout=compact&langs_count=6">
 
 ## ✨ Project Showcase
+* [CRUD using .NET & Vuejs](https://github.com/anhoangcao/CRUD-using-.NET-and-Vuejs) - CRUD using ASP.NET core, Vuejs and MS SQL
+* [Heart disease prediction](https://github.com/anhoangcao/Heart-Disease-Prediction-System) - Leveraging Machine learning for heart disease diagnosis
 * [Tiktok clone](https://github.com/anhoangcao/Tiktok-clone) - Full-stack Tiktok chone with Next, React, TypeScript, TailwindCSS and AppWrite
 * [ChatGPT clone](https://github.com/anhoangcao/MEVN-Stack-ChatGPT) - MEVN-Stack ChatGPT chone with MongoDB, Expreess, Vue, Node and OpenAI
 * [ECG Classification](https://github.com/anhoangcao/Electrocardiogram-Based-Heart-Disease-Classification-with-Machine-Learning-Techniques) - Electrocardiogram based heart disease classification with machine learning techniques
