@@ -14,7 +14,7 @@ class CaoHoangAn {
     this.school = "Can Tho University";
     this.pronouns = "he/him";
     this.hobbies = ["football", "programming", "travel", "music", "book"];
-    this.programmingLanguages = ["React", "Node", "Java", "Python", "JavaScript"];
+    this.programmingLanguages = ["React", "Node", "C#", "Python", "JavaScript", "Java"];
   }
 }
 ```
@@ -30,7 +30,7 @@ class CaoHoangAn {
 ## ✨ Project Showcase
 * [CRUD using .NET & Vuejs](https://github.com/anhoangcao/CRUD-using-.NET-and-Vuejs) - CRUD using ASP.NET core, Vuejs and MS SQL
 * [Heart disease prediction](https://github.com/anhoangcao/Heart-Disease-Prediction-System) - Leveraging Machine learning for heart disease diagnosis
-* [Tiktok clone](https://github.com/anhoangcao/Tiktok-clone) - Full-stack Tiktok chone with Next, React, TypeScript, TailwindCSS and AppWrite
+* [TikTok clone](https://github.com/anhoangcao/Tiktok-clone) - Full-stack Tiktok chone with Next, React, TypeScript, TailwindCSS and AppWrite
 * [ChatGPT clone](https://github.com/anhoangcao/MEVN-Stack-ChatGPT) - MEVN-Stack ChatGPT chone with MongoDB, Expreess, Vue, Node and OpenAI
 * [ECG Classification](https://github.com/anhoangcao/Electrocardiogram-Based-Heart-Disease-Classification-with-Machine-Learning-Techniques) - Electrocardiogram based heart disease classification with machine learning techniques
 * [Ecommerce shop](https://github.com/anhoangcao/MERN-stack-ecommerce-shop) - Full-stack ecommerce shop with MongoDB, Express, React, Node, TailwindCSS and Socket.IO
