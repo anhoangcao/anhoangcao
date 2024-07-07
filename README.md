@@ -10,6 +10,7 @@
 ```javascript
 class CaoHoangAn {
   constructor() {
+    this.majors = "Information Systems";
     this.school = "Can Tho University";
     this.pronouns = "he/him";
     this.hobbies = ["football", "programming", "travel", "music", "book"];
