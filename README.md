@@ -10,11 +10,11 @@
 ```javascript
 class CaoHoangAn {
   constructor() {
-    this.class = "DI2095A2";
     this.school = "Can Tho University";
     this.pronouns = "he/him";
     this.hobbies = ["football", "programming", "travel", "music", "book"];
-    this.programmingLanguages = ["React", "Node", "C#", "Python", "JavaScript", "Java"];
+    this.frameworks_library = ["React", "Express/Node", "ASP.NET", "Vue", "Next"];
+    this.programmingLanguages = ["JavaScript", "TypeScript" "C#", "Java", "Python"];
   }
 }
 ```
